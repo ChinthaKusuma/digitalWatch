@@ -1,0 +1,117 @@
+/* Write your CSS here */
+.c1 {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bgContainer {
+  background-image: linear-gradient(to right, white, #cffcf1);
+  width: 80vw;
+  box-shadow: 0px 4px 16px 0px grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container11 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  background-size: cover;
+  width: 320px;
+  height: 250px;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  padding: 185px;
+}
+/* .container2 {
+  background-color: white;
+} */
+.heading1 {
+  color: #1bd3a5;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+.heading11 {
+  text-align: center;
+}
+.container112 {
+  background-color: white;
+  /* height: 10vh;
+  width: 10vw; */
+
+  border-radius: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.one111 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.c2 {
+  display: flex;
+  flex-direction: row;
+}
+.para11 {
+  margin-right: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5px;
+}
+.para111 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.one {
+  display: flex;
+  flex-direction: row;
+}
+.img1 {
+  height: 50px;
+  width: 50px;
+}
+.container3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.c3 {
+  display: flex;
+}
+.para2 {
+  font-weight: bold;
+}
+.btn1 {
+  background-color: transparent;
+  border: 0px;
+}
+.btn2 {
+  background-image: linear-gradient(to left, #00d9f5, #1bd3a5);
+  border: 0px;
+  padding: 10px;
+}
+.bg1 {
+  width: 60vw;
+  display: flex;
+  flex-direction: column;
+}
+.one12 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
